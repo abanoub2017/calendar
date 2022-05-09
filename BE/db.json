@@ -1,0 +1,46 @@
+{
+  "calendar": [
+    {
+      "date": "2020-12-15",
+      "id":1,
+      "employees": [
+        {
+          "name": "ABC",
+          "arrive": 9,
+          "leave": 17
+        },
+        {
+          "name": "DEF",
+          "arrive": 9,
+          "leave": 16
+        },
+        {
+          "name": "GHI",
+          "arrive": 10,
+          "leave": 17
+        }
+      ]
+    },
+    {
+      "date": "2020-12-16",
+      "id":2,
+      "employees": [
+        {
+          "name": "ABC",
+          "arrive": 10,
+          "leave": 16
+        },
+        {
+          "name": "DEF",
+          "arrive": 9,
+          "leave": 16
+        },
+        {
+          "name": "GHI",
+          "arrive": 11,
+          "leave": 17
+        }
+      ]
+    }
+  ]
+}

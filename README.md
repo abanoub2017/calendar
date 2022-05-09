@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### To run the Backend Server for
+```
+npm json-server --watch BE/db.json --port=3001
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
